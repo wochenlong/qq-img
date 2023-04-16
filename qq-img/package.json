@@ -1,0 +1,21 @@
+{
+  "name": "koishi-plugin-qq-img",
+  "description": "通过at获取指定群友高清头像",
+  "version": "0.9.11",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.11.0"
+  }
+}
